@@ -2,8 +2,9 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <router-link to="/contact">聯絡我們</router-link>
   </nav>
-  <router-view/>
+  <router-view></router-view>
 </template>
 
 <style>
